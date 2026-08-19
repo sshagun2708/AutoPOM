@@ -1,0 +1,12 @@
+Target URL: https://www.amazon.in/ap/signin?openid.return_to=https%3A%2F%2Fwww.amazon.in%2F%3Fref_%3Dnav_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=inflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0
+
+Test Steps:
+1. Login to url. (use these login credentials - 9501343962/Amandeep@2790)
+2. Once user is successfully logged in.
+3. User will land on Homepage.
+4. Enter product name "Samsung Z Fold 8 - 5G - 256GB Storage" in search text field.
+5. Click on search button.
+6. User should select product from listing page.
+7. User will land on product detail page.
+8. Click on Add to cart button.
+9. Product should be added in your cart.
